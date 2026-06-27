@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=RefatPobitro&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/RefatPobitro?label=Followers&style=flat-square&color=6E40C9" alt="Followers" />
 </p>
-
 🧑‍💻 About Me
 class Refat:
     name       = "Refat"
@@ -17,20 +16,19 @@ class Refat:
     interests          = ["AI Research", "Software Engineering", "Computer Networks"]
     
     quote = "Every expert was once a beginner. Keep going. 🔥"
-    🛠️ Tech Stack
+🛠️ Tech Stack
 Languages I know:
 
 
 
 
 Tools & Platforms:
-
-📊 GitHub Stats
+GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RefatPobitro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Refat's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RefatPobitro&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RefatPobitro&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=RefatPobitro&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
 </p>
 🎯 Current Goals
 	•	🤖 Building a strong foundation in Artificial Intelligence & Machine Learning
@@ -38,14 +36,12 @@ Tools & Platforms:
 	•	🌐 Deepening knowledge in Computer Networks and Software Engineering
 	•	💻 Contributing to open-source and building real-world projects
 	•	🏆 Working towards becoming a professional AI/ML Engineer in Bangladesh
-
-  📂 Featured Projects
-  |Project                                                                   |Description        |Language|
+	📂 Featured Projects
+	|Project                                                                   |Description        |Language|
 |--------------------------------------------------------------------------|-------------------|--------|
 |[java-project-final](https://github.com/RefatPobitro/java-project-final)  |Final Java project |Java    |
 |[lab-task-2-compiler](https://github.com/RefatPobitro/lab-task-2-compiler)|Compiler Design lab|C++     |
 |[fastTrackLogistics](https://github.com/RefatPobitro/fastTrackLogistics)  |Logistics system   |C#      |
-
 📫 Let’s Connect
 <p align="center">
   <a href="https://github.com/RefatPobitro">
@@ -58,6 +54,3 @@ Tools & Platforms:
 </p><p align="center">
   Made with ❤️ from Dhaka, Bangladesh 🇧🇩
 </p>
-
-
-
